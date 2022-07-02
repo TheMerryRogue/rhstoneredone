@@ -1,0 +1,9 @@
+{
+  "replace": false,
+  "values": [
+    "rhstoneredone:cobbled_andesite",
+    "rhstoneredone:cobbled_blackstone",
+    "rhstoneredone:cobbled_diorite",
+    "rhstoneredone:cobbled_granite"
+  ]
+}

@@ -1,0 +1,8 @@
+{
+  "type": "minecraft:stonecutting",
+  "ingredient": {
+    "item": "minecraft:deepslate_bricks"
+  },
+  "result": "rhstoneredone:chiseled_piglin_deepslate_bricks",
+  "count": 1
+}

@@ -1,0 +1,7 @@
+{
+  "parent": "block/cube_all",
+  "textures":
+  {
+    "all": "rhstoneredone:block/chiseled_skeleton_fungal_red_nether_bricks"
+  }
+}

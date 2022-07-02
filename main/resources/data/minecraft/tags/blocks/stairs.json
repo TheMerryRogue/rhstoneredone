@@ -1,0 +1,22 @@
+{
+  "replace": false,
+  "values": [
+    "rhstoneredone:smooth_stone_stairs",
+    "rhstoneredone:cracked_stone_brick_stairs",
+    "rhstoneredone:cobbled_andesite_stairs",
+    "rhstoneredone:cobbled_blackstone_stairs",
+    "rhstoneredone:cobbled_diorite_stairs",
+    "rhstoneredone:cobbled_granite_stairs",
+    "rhstoneredone:cut_sandstone_stairs",
+    "rhstoneredone:cut_red_sandstone_stairs",
+    "rhstoneredone:netherrack_stairs",
+    "rhstoneredone:fungal_nether_brick_stairs",
+    "rhstoneredone:fungal_red_nether_brick_stairs",
+    "rhstoneredone:cracked_blackstone_brick_stairs",
+    "rhstoneredone:deepslate_stairs",
+    "rhstoneredone:cracked_deepslate_brick_stairs",
+    "rhstoneredone:cracked_deepslate_tile_stairs",
+    "rhstoneredone:cracked_nether_brick_stairs",
+    "rhstoneredone:cracked_red_nether_brick_stairs"
+  ]
+}

@@ -1,0 +1,283 @@
+{
+  "item.rhstoneredone.stone_wall": "Stone Wall",
+  "block.rhstoneredone.stone_wall": "Stone Wall",
+
+  "item.rhstoneredone.smooth_stone_wall": "Polished Stone Wall",
+  "block.rhstoneredone.smooth_stone_wall": "Polished Stone Wall",
+
+  "item.rhstoneredone.smooth_stone_stairs": "Polished Stone Stairs",
+  "block.rhstoneredone.smooth_stone_stairs": "Polished Stone Stairs",
+
+
+  "item.rhstoneredone.cracked_stone_brick_wall": "Cracked Stone Brick Wall",
+  "block.rhstoneredone.cracked_stone_brick_wall": "Cracked Stone Brick Wall",
+
+  "item.rhstoneredone.cracked_stone_brick_stairs": "Cracked Stone Brick Stairs",
+  "block.rhstoneredone.cracked_stone_brick_stairs": "Cracked Stone Brick Stairs",
+
+  "item.rhstoneredone.cracked_stone_brick_slab": "Cracked Stone Brick Slab",
+  "block.rhstoneredone.cracked_stone_brick_slab": "Cracked Stone Brick Slab",
+
+
+  "item.rhstoneredone.cobbled_andesite": "Cobbled Andesite",
+  "block.rhstoneredone.cobbled_andesite": "Cobbled Andesite",
+
+  "item.rhstoneredone.cobbled_andesite_wall": "Cobbled Andesite Wall",
+  "block.rhstoneredone.cobbled_andesite_wall": "Cobbled Andesite Wall",
+
+  "item.rhstoneredone.cobbled_andesite_stairs": "Cobbled Andesite Stairs",
+  "block.rhstoneredone.cobbled_andesite_stairs": "Cobbled Andesite Stairs",
+
+  "item.rhstoneredone.cobbled_andesite_slab": "Cobbled Andesite Slab",
+  "block.rhstoneredone.cobbled_andesite_slab": "Cobbled Andesite Slab",
+
+  "item.rhstoneredone.polished_andesite_wall": "Polished Andesite Wall",
+  "block.rhstoneredone.polished_andesite_wall": "Polished Andesite Wall",
+
+
+  "item.rhstoneredone.cobbled_diorite": "Cobbled Diorite",
+  "block.rhstoneredone.cobbled_diorite": "Cobbled Diorite",
+
+  "item.rhstoneredone.cobbled_diorite_wall": "Cobbled Diorite Wall",
+  "block.rhstoneredone.cobbled_diorite_wall": "Cobbled Diorite Wall",
+
+  "item.rhstoneredone.cobbled_diorite_stairs": "Cobbled Diorite Stairs",
+  "block.rhstoneredone.cobbled_diorite_stairs": "Cobbled Diorite Stairs",
+
+  "item.rhstoneredone.cobbled_diorite_slab": "Cobbled Diorite Slab",
+  "block.rhstoneredone.cobbled_diorite_slab": "Cobbled Diorite Slab",
+
+  "item.rhstoneredone.polished_diorite_wall": "Polished Diorite Wall",
+  "block.rhstoneredone.polished_diorite_wall": "Polished Diorite Wall",
+
+
+  "item.rhstoneredone.cobbled_granite": "Cobbled Granite",
+  "block.rhstoneredone.cobbled_granite": "Cobbled Granite",
+
+  "item.rhstoneredone.cobbled_granite_wall": "Cobbled Granite Wall",
+  "block.rhstoneredone.cobbled_granite_wall": "Cobbled Granite Wall",
+
+  "item.rhstoneredone.cobbled_granite_stairs": "Cobbled Granite Stairs",
+  "block.rhstoneredone.cobbled_granite_stairs": "Cobbled Granite Stairs",
+
+  "item.rhstoneredone.cobbled_granite_slab": "Cobbled Granite Slab",
+  "block.rhstoneredone.cobbled_granite_slab": "Cobbled Granite Slab",
+
+  "item.rhstoneredone.polished_granite_wall": "Polished Granite Wall",
+  "block.rhstoneredone.polished_granite_wall": "Polished Granite Wall",
+
+
+  "item.rhstoneredone.chiseled_simple_mossy_stone_bricks": "Mossy Classic Chiseled Stone Block",
+  "block.rhstoneredone.chiseled_simple_mossy_stone_bricks": "Mossy Classic Chiseled Stone Block",
+
+  "item.rhstoneredone.chiseled_piglin_stone_bricks": "Piglin Chiseled Stone Block",
+  "block.rhstoneredone.chiseled_piglin_stone_bricks": "Piglin Chiseled Stone Block",
+
+  "item.rhstoneredone.chiseled_piglin_mossy_stone_bricks": "Mossy Piglin Chiseled Stone Block",
+  "block.rhstoneredone.chiseled_piglin_mossy_stone_bricks": "Mossy Piglin Chiseled Stone Block",
+
+
+  "item.rhstoneredone.smooth_sandstone_wall": "Sandstone Wall",
+  "block.rhstoneredone.smooth_sandstone_wall": "Sandstone Wall",
+
+  "item.rhstoneredone.cut_sandstone_stairs": "Polished Sandstone Stairs",
+  "block.rhstoneredone.cut_sandstone_stairs": "Polished Sandstone Stairs",
+
+  "item.rhstoneredone.cut_sandstone_wall": "Polished Sandstone Wall",
+  "block.rhstoneredone.cut_sandstone_wall": "Polished Sandstone Wall",
+
+  "item.rhstoneredone.chiseled_wither_sandstone": "Wither Chiseled Sandstone Block",
+  "block.rhstoneredone.chiseled_wither_sandstone": "Wither Chiseled Sandstone Block",
+
+
+  "item.rhstoneredone.smooth_red_sandstone_wall": "Red Sandstone Wall",
+  "block.rhstoneredone.smooth_red_sandstone_wall": "Red Sandstone Wall",
+
+  "item.rhstoneredone.cut_red_sandstone_stairs": "Polished Red Sandstone Stairs",
+  "block.rhstoneredone.cut_red_sandstone_stairs": "Polished Red Sandstone Stairs",
+
+  "item.rhstoneredone.cut_red_sandstone_wall": "Polished Red Sandstone Wall",
+  "block.rhstoneredone.cut_red_sandstone_wall": "Polished Red Sandstone Wall",
+
+  "item.rhstoneredone.chiseled_creeper_red_sandstone": "Creeper Chiseled Red Sandstone Block",
+  "block.rhstoneredone.chiseled_creeper_red_sandstone": "Creeper Chiseled Red Sandstone Block",
+
+
+  "item.rhstoneredone.netherrack_wall": "Netherrack Wall",
+  "block.rhstoneredone.netherrack_wall": "Netherrack Wall",
+
+  "item.rhstoneredone.netherrack_stairs": "Netherrack Stairs",
+  "block.rhstoneredone.netherrack_stairs": "Netherrack Stairs",
+
+  "item.rhstoneredone.netherrack_slab": "Netherrack Slab",
+  "block.rhstoneredone.netherrack_slab": "Netherrack Slab",
+
+
+  "item.rhstoneredone.chiseled_simple_nether_bricks": "Classic Chiseled Nether Block",
+  "block.rhstoneredone.chiseled_simple_nether_bricks": "Classic Chiseled Nether Block",
+
+  "item.rhstoneredone.chiseled_piglin_nether_bricks": "Piglin Chiseled Nether Block",
+  "block.rhstoneredone.chiseled_piglin_nether_bricks": "Piglin Chiseled Nether Block",
+
+  "item.rhstoneredone.cracked_nether_brick_wall": "Cracked Nether Brick Wall",
+  "block.rhstoneredone.cracked_nether_brick_wall": "Cracked Nether Brick Wall",
+
+  "item.rhstoneredone.cracked_nether_brick_stairs": "Cracked Nether Brick Stairs",
+  "block.rhstoneredone.cracked_nether_brick_stairs": "Cracked Nether Brick Stairs",
+
+  "item.rhstoneredone.cracked_nether_brick_slab": "Cracked Nether Brick Slab",
+  "block.rhstoneredone.cracked_nether_brick_slab": "Cracked Nether Brick Slab",
+
+  "item.rhstoneredone.nether_brick_fence_gate": "Nether Brick Fence Gate",
+  "block.rhstoneredone.nether_brick_fence_gate": "Nether Brick Fence Gate",
+
+  "item.rhstoneredone.fungal_nether_bricks": "Fungal Nether Bricks",
+  "block.rhstoneredone.fungal_nether_bricks": "Fungal Nether Bricks",
+
+  "item.rhstoneredone.fungal_nether_brick_stairs": "Fungal Nether Brick Stairs",
+  "block.rhstoneredone.fungal_nether_brick_stairs": "Fungal Nether Brick Stairs",
+
+  "item.rhstoneredone.fungal_nether_brick_slab": "Fungal Nether Brick Slab",
+  "block.rhstoneredone.fungal_nether_brick_slab": "Fungal Nether Brick Slab",
+
+  "item.rhstoneredone.fungal_nether_brick_wall": "Fungal Nether Brick Wall",
+  "block.rhstoneredone.fungal_nether_brick_wall": "Fungal Nether Brick Wall",
+
+  "item.rhstoneredone.chiseled_simple_fungal_nether_bricks": "Fungal Classic Chiseled Nether Block",
+  "block.rhstoneredone.chiseled_simple_fungal_nether_bricks": "Fungal Classic Chiseled Nether Block",
+
+  "item.rhstoneredone.chiseled_skeleton_fungal_nether_bricks": "Fungal Skeleton Chiseled Nether Block",
+  "block.rhstoneredone.chiseled_skeleton_fungal_nether_bricks": "Fungal Skeleton Chiseled Nether Block",
+
+  "item.rhstoneredone.chiseled_piglin_fungal_nether_bricks": "Fungal Piglin Chiseled Nether Block",
+  "block.rhstoneredone.chiseled_piglin_fungal_nether_bricks": "Fungal Piglin Chiseled Nether Block",
+
+
+  "item.rhstoneredone.chiseled_simple_red_nether_bricks": "Classic Chiseled Red Nether Block",
+  "block.rhstoneredone.chiseled_simple_red_nether_bricks": "Classic Chiseled Red Nether Block",
+
+  "item.rhstoneredone.chiseled_piglin_red_nether_bricks": "Piglin Chiseled Red Nether Block",
+  "block.rhstoneredone.chiseled_piglin_red_nether_bricks": "Piglin Chiseled Red Nether Block",
+
+  "item.rhstoneredone.chiseled_skeleton_red_nether_bricks": "Skeleton Chiseled Red Nether Block",
+  "block.rhstoneredone.chiseled_skeleton_red_nether_bricks": "Skeleton Chiseled Red Nether Block",
+
+  "item.rhstoneredone.cracked_red_nether_bricks": "Cracked Red Nether Bricks",
+  "block.rhstoneredone.cracked_red_nether_bricks": "Cracked Red Nether Bricks",
+
+  "item.rhstoneredone.cracked_red_nether_brick_wall": "Cracked Red Nether Brick Wall",
+  "block.rhstoneredone.cracked_red_nether_brick_wall": "Cracked Red Nether Brick Wall",
+
+  "item.rhstoneredone.cracked_red_nether_brick_stairs": "Cracked Red Nether Brick Stairs",
+  "block.rhstoneredone.cracked_red_nether_brick_stairs": "Cracked Red Nether Brick Stairs",
+
+  "item.rhstoneredone.cracked_red_nether_brick_slab": "Cracked Red Nether Brick Slab",
+  "block.rhstoneredone.cracked_red_nether_brick_slab": "Cracked Red Nether Brick Slab",
+
+  "item.rhstoneredone.red_nether_brick_fence": "Red Nether Brick Fence",
+  "block.rhstoneredone.red_nether_brick_fence": "Red Nether Brick Fence",
+
+  "item.rhstoneredone.red_nether_brick_fence_gate": "Red Nether Brick Fence Gate",
+  "block.rhstoneredone.red_nether_brick_fence_gate": "Red Nether Brick Fence Gate",
+
+  "item.rhstoneredone.fungal_red_nether_bricks": "Fungal Red Nether Bricks",
+  "block.rhstoneredone.fungal_red_nether_bricks": "Fungal Red Nether Bricks",
+
+  "item.rhstoneredone.fungal_red_nether_brick_stairs": "Fungal Red Nether Brick Stairs",
+  "block.rhstoneredone.fungal_red_nether_brick_stairs": "Fungal Red Nether Brick Stairs",
+
+  "item.rhstoneredone.fungal_red_nether_brick_slab": "Fungal Red Nether Brick Slab",
+  "block.rhstoneredone.fungal_red_nether_brick_slab": "Fungal Red Nether Brick Slab",
+
+  "item.rhstoneredone.fungal_red_nether_brick_wall": "Fungal Red Nether Brick Wall",
+  "block.rhstoneredone.fungal_red_nether_brick_wall": "Fungal Red Nether Brick Wall",
+
+  "item.rhstoneredone.chiseled_simple_fungal_red_nether_bricks": "Fungal Classic Chiseled Red Nether Block",
+  "block.rhstoneredone.chiseled_simple_fungal_red_nether_bricks": "Fungal Classic Chiseled Red Nether Block",
+
+  "item.rhstoneredone.chiseled_skeleton_fungal_red_nether_bricks": "Fungal Skeleton Chiseled Red Nether Block",
+  "block.rhstoneredone.chiseled_skeleton_fungal_red_nether_bricks": "Fungal Skeleton Chiseled Red Nether Block",
+
+  "item.rhstoneredone.chiseled_piglin_fungal_red_nether_bricks": "Fungal Piglin Chiseled Red Nether Block",
+  "block.rhstoneredone.chiseled_piglin_fungal_red_nether_bricks": "Fungal Piglin Chiseled Red Nether Block",
+
+
+  "item.rhstoneredone.cobbled_blackstone": "Cobbled Blackstone",
+  "block.rhstoneredone.cobbled_blackstone": "Cobbled Blackstone",
+
+  "item.rhstoneredone.cobbled_blackstone_stairs": "Cobbled Blackstone Stairs",
+  "block.rhstoneredone.cobbled_blackstone_stairs": "Cobbled Blackstone Stairs",
+
+  "item.rhstoneredone.cobbled_blackstone_slab": "Cobbled Blackstone Slab",
+  "block.rhstoneredone.cobbled_blackstone_slab": "Cobbled Blackstone Slab",
+
+  "item.rhstoneredone.cobbled_blackstone_wall": "Cobbled Blackstone Wall",
+  "block.rhstoneredone.cobbled_blackstone_wall": "Cobbled Blackstone Wall",
+
+  "item.rhstoneredone.chiseled_simple_polished_blackstone_bricks": "Classic Chiseled Blackstone Block",
+  "block.rhstoneredone.chiseled_simple_polished_blackstone_bricks": "Classic Chiseled Blackstone Block",
+
+  "item.rhstoneredone.cracked_blackstone_brick_stairs": "Cracked Blackstone Brick Stairs",
+  "block.rhstoneredone.cracked_blackstone_brick_stairs": "Cracked Blackstone Brick Stairs",
+
+  "item.rhstoneredone.cracked_blackstone_brick_slab": "Cracked Blackstone Brick Slab",
+  "block.rhstoneredone.cracked_blackstone_brick_slab": "Cracked Blackstone Brick Slab",
+
+  "item.rhstoneredone.cracked_blackstone_brick_wall": "Cracked Blackstone Brick Wall",
+  "block.rhstoneredone.cracked_blackstone_brick_wall": "Cracked Blackstone Brick Wall",
+
+
+  "item.rhstoneredone.deepslate_stairs": "Deepslate Stairs",
+  "block.rhstoneredone.deepslate_stairs": "Deepslate Stairs",
+
+  "item.rhstoneredone.deepslate_slab": "Deepslate Slab",
+  "block.rhstoneredone.deepslate_slab": "Deepslate Slab",
+
+  "item.rhstoneredone.deepslate_wall": "Deepslate Wall",
+  "block.rhstoneredone.deepslate_wall": "Deepslate Wall",
+
+  "item.rhstoneredone.cracked_deepslate_brick_stairs": "Cracked Deepslate Brick Stairs",
+  "block.rhstoneredone.cracked_deepslate_brick_stairs": "Cracked Deepslate Brick Stairs",
+
+  "item.rhstoneredone.cracked_deepslate_brick_slab": "Cracked Deepslate Brick Slab",
+  "block.rhstoneredone.cracked_deepslate_brick_slab": "Cracked Deepslate Brick Slab",
+
+  "item.rhstoneredone.cracked_deepslate_brick_wall": "Cracked Deepslate Brick Wall",
+  "block.rhstoneredone.cracked_deepslate_brick_wall": "Cracked Deepslate Brick Wall",
+
+  "item.rhstoneredone.cracked_deepslate_tile_stairs": "Cracked Deepslate Tile Stairs",
+  "block.rhstoneredone.cracked_deepslate_tile_stairs": "Cracked Deepslate Tile Stairs",
+
+  "item.rhstoneredone.cracked_deepslate_tile_slab": "Cracked Deepslate Tile Slab",
+  "block.rhstoneredone.cracked_deepslate_tile_slab": "Cracked Deepslate Tile Slab",
+
+  "item.rhstoneredone.cracked_deepslate_tile_wall": "Cracked Deepslate Tile Wall",
+  "block.rhstoneredone.cracked_deepslate_tile_wall": "Cracked Deepslate Tile Wall",
+
+  "item.rhstoneredone.deepslate_button": "Deepslate Button",
+  "block.rhstoneredone.deepslate_button": "Deepslate Button",
+
+  "item.rhstoneredone.deepslate_pressure_plate": "Deepslate Pressure Plate",
+  "block.rhstoneredone.deepslate_pressure_plate": "Deepslate Pressure Plate",
+
+
+  "item.rhstoneredone.chiseled_simple_deepslate_bricks": "Classic Chiseled Deepslate Block",
+  "block.rhstoneredone.chiseled_simple_deepslate_bricks": "Classic Chiseled Deepslate Block",
+
+  "item.rhstoneredone.chiseled_piglin_deepslate_bricks": "Piglin Chiseled Deepslate Block",
+  "block.rhstoneredone.chiseled_piglin_deepslate_bricks": "Piglin Chiseled Deepslate Block",
+
+
+  "item.rhstoneredone.prismarine_brick_wall": "Prismarine Brick Wall",
+  "block.rhstoneredone.prismarine_brick_wall": "Prismarine Brick Wall",
+
+  "item.rhstoneredone.dark_prismarine_wall": "Dark Prismarine Wall",
+  "block.rhstoneredone.dark_prismarine_wall": "Dark Prismarine Wall",
+
+  "item.rhstoneredone.chiseled_guardian_prismarine_bricks": "Guardian Chiseled Prismarine Block",
+  "block.rhstoneredone.chiseled_guardian_prismarine_bricks": "Guardian Chiseled Prismarine Block",
+
+  "item.rhstoneredone.chiseled_guardian_dark_prismarine": "Guardian Chiseled Dark Prismarine Block",
+  "block.rhstoneredone.chiseled_guardian_dark_prismarine": "Guardian Chiseled Dark Prismarine Block"
+
+}

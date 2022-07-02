@@ -1,0 +1,132 @@
+{
+  "item.minecraft.smooth_stone": "Polished Stone",
+  "block.minecraft.smooth_stone": "Polished Stone",
+
+  "item.minecraft.smooth_stone_slab": "Polished Stone Slab",
+  "block.minecraft.smooth_stone_slab": "Polished Stone Slab",
+
+
+  "item.minecraft.chiseled_stone_bricks": "Classic Chiseled Stone Block",
+  "block.minecraft.chiseled_stone_bricks": "Classic Chiseled Stone Block",
+
+
+  "item.minecraft.sandstone": "Cobbled Sandstone",
+  "block.minecraft.sandstone": "Cobbled Sandstone",
+
+  "item.minecraft.sandstone_stairs": "Cobbled Sandstone Stairs",
+  "block.minecraft.sandstone_stairs": "Cobbled Sandstone Stairs",
+
+  "item.minecraft.sandstone_slab": "Cobbled Sandstone Slab",
+  "block.minecraft.sandstone_slab": "Cobbled Sandstone Slab",
+
+  "item.minecraft.sandstone_wall": "Cobbled Sandstone Wall",
+  "block.minecraft.sandstone_wall": "Cobbled Sandstone Wall",
+
+  "item.minecraft.smooth_sandstone": "Sandstone",
+  "block.minecraft.smooth_sandstone": "Sandstone",
+
+  "item.minecraft.smooth_sandstone_stairs": "Sandstone Stairs",
+  "block.minecraft.smooth_sandstone_stairs": "Sandstone Stairs",
+
+  "item.minecraft.smooth_sandstone_slab": "Sandstone Slab",
+  "block.minecraft.smooth_sandstone_slab": "Sandstone Slab",
+
+  "item.minecraft.cut_sandstone": "Polished Sandstone",
+  "block.minecraft.cut_sandstone": "Polished Sandstone",
+
+  "item.minecraft.cut_sandstone_slab": "Polished Sandstone Slab",
+  "block.minecraft.cut_sandstone_slab": "Polished Sandstone Slab",
+
+  "item.minecraft.red_sandstone": "Cobbled Red Sandstone",
+  "block.minecraft.red_sandstone": "Cobbled Red Sandstone",
+
+  "item.minecraft.red_sandstone_stairs": "Cobbled Red Sandstone Stairs",
+  "block.minecraft.red_sandstone_stairs": "Cobbled Red Sandstone Stairs",
+
+  "item.minecraft.red_sandstone_slab": "Cobbled Red Sandstone Slab",
+  "block.minecraft.red_sandstone_slab": "Cobbled Red Sandstone Slab",
+
+  "item.minecraft.red_sandstone_wall": "Cobbled Red Sandstone Wall",
+  "block.minecraft.red_sandstone_wall": "Cobbled Red Sandstone Wall",
+
+  "item.minecraft.smooth_red_sandstone": "Red Sandstone",
+  "block.minecraft.smooth_red_sandstone": "Red Sandstone",
+
+  "item.minecraft.smooth_red_sandstone_stairs": "Red Sandstone Stairs",
+  "block.minecraft.smooth_red_sandstone_stairs": "Red Sandstone Stairs",
+
+  "item.minecraft.smooth_red_sandstone_slab": "Red Sandstone Slab",
+  "block.minecraft.smooth_red_sandstone_slab": "Red Sandstone Slab",
+
+  "item.minecraft.cut_red_sandstone": "Polished Red Sandstone",
+  "block.minecraft.cut_red_sandstone": "Polished Red Sandstone",
+
+  "item.minecraft.cut_red_sandstone_slab": "Polished Red Sandstone Slab",
+  "block.minecraft.cut_red_sandstone_slab": "Polished Red Sandstone Slab",
+
+  "item.minecraft.chiseled_sandstone": "Creeper Chiseled Sandstone Block",
+  "block.minecraft.chiseled_sandstone": "Creeper Chiseled Sandstone Block",
+
+  "item.minecraft.chiseled_red_sandstone": "Wither Chiseled Red Sandstone Block",
+  "block.minecraft.chiseled_red_sandstone": "Wither Chiseled Red Sandstone Block",
+
+
+  "item.minecraft.chiseled_nether_bricks": "Skeleton Chiseled Nether Block",
+  "block.minecraft.chiseled_nether_bricks": "Skeleton Chiseled Nether Block",
+
+
+  "item.minecraft.basalt": "Cobbled Basalt",
+  "block.minecraft.basalt": "Cobbled Basalt",
+
+  "item.minecraft.smooth_basalt": "Basalt",
+  "block.minecraft.smooth_basalt": "Basalt",
+
+  "item.minecraft.polished_basalt": "Basalt Pillar",
+  "block.minecraft.polished_basalt": "Basalt Pillar",
+
+
+  "item.minecraft.polished_blackstone_bricks": "Blackstone Bricks",
+  "block.minecraft.polished_blackstone_bricks": "Blackstone Bricks",
+
+  "item.minecraft.polished_blackstone_brick_stairs": "Blackstone Brick Stairs",
+  "block.minecraft.polished_blackstone_brick_stairs": "Blackstone Brick Stairs",
+
+  "item.minecraft.polished_blackstone_brick_slab": "Blackstone Brick Slab",
+  "block.minecraft.polished_blackstone_brick_slab": "Blackstone Brick Slab",
+
+  "item.minecraft.polished_blackstone_brick_wall": "Blackstone Brick Wall",
+  "block.minecraft.polished_blackstone_brick_wall": "Blackstone Brick Wall",
+
+  "item.minecraft.chiseled_polished_blackstone": "Piglin Chiseled Blackstone Block",
+  "block.minecraft.chiseled_polished_blackstone": "Piglin Chiseled Blackstone Block",
+
+  "item.minecraft.cracked_polished_blackstone_bricks": "Cracked Blackstone Bricks",
+  "block.minecraft.cracked_polished_blackstone_bricks": "Cracked Blackstone Bricks",
+
+  "item.minecraft.polished_blackstone_button": "Blackstone Button",
+  "block.minecraft.polished_blackstone_button": "Blackstone Button",
+
+
+  "item.minecraft.chiseled_deepslate": "Zombie Chiseled Deepslate Block",
+  "block.minecraft.chiseled_deepslate": "Zombie Chiseled Deepslate Block",
+
+
+  "item.minecraft.chiseled_quartz_block": "Ornate Chiseled Quartz Block",
+  "block.minecraft.chiseled_quartz_block": "Ornate Chiseled Quartz Block",
+
+
+  "item.minecraft.brick": "Red Clay Brick",
+
+  "item.minecraft.bricks": "Red Clay Bricks",
+  "block.minecraft.bricks": "Red Clay Bricks",
+
+  "item.minecraft.brick_stairs": "Red Clay Brick Stairs",
+  "block.minecraft.brick_stairs": "Red Clay Brick Stairs",
+
+  "item.minecraft.brick_slab": "Red Clay Brick Slab",
+  "block.minecraft.brick_slab": "Red Clay Brick Slab",
+
+  "item.minecraft.brick_wall": "Red Clay Brick Wall",
+  "block.minecraft.brick_wall": "Red Clay Brick Wall"
+
+}

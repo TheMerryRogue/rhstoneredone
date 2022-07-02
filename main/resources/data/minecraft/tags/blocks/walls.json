@@ -1,0 +1,30 @@
+{
+  "replace": false,
+  "values": [
+    "rhstoneredone:stone_wall",
+    "rhstoneredone:smooth_stone_wall",
+    "rhstoneredone:cracked_stone_brick_wall",
+    "rhstoneredone:polished_andesite_wall",
+    "rhstoneredone:polished_diorite_wall",
+    "rhstoneredone:polished_granite_wall",
+    "rhstoneredone:cobbled_andesite_wall",
+    "rhstoneredone:cobbled_blackstone_wall",
+    "rhstoneredone:cobbled_diorite_wall",
+    "rhstoneredone:cobbled_granite_wall",
+    "rhstoneredone:smooth_sandstone_wall",
+    "rhstoneredone:smooth_red_sandstone_wall",
+    "rhstoneredone:cut_sandstone_wall",
+    "rhstoneredone:cut_red_sandstone_wall",
+    "rhstoneredone:netherrack_wall",
+    "rhstoneredone:cracked_nether_brick_wall",
+    "rhstoneredone:cracked_red_nether_brick_wall",
+    "rhstoneredone:fungal_nether_brick_wall",
+    "rhstoneredone:fungal_red_nether_brick_wall",
+    "rhstoneredone:cracked_blackstone_brick_wall",
+    "rhstoneredone:deepslate_wall",
+    "rhstoneredone:cracked_deepslate_brick_wall",
+    "rhstoneredone:cracked_deepslate_tile_wall",
+    "rhstoneredone:prismarine_brick_wall",
+    "rhstoneredone:dark_prismarine_wall"
+  ]
+}

@@ -1,0 +1,8 @@
+{
+  "type": "minecraft:stonecutting",
+  "ingredient": {
+    "item": "rhstoneredone:cobbled_blackstone"
+  },
+  "result": "rhstoneredone:cobbled_blackstone_stairs",
+  "count": 1
+}

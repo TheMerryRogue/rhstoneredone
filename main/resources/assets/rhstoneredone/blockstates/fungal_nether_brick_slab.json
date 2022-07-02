@@ -1,0 +1,13 @@
+{
+  "variants": {
+    "type=bottom": {
+      "model": "rhstoneredone:block/fungal_nether_brick_slab"
+    },
+    "type=double": {
+      "model": "rhstoneredone:block/fungal_nether_bricks"
+    },
+    "type=top": {
+      "model": "rhstoneredone:block/fungal_nether_brick_slab_top"
+    }
+  }
+}

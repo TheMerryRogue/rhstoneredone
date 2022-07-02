@@ -1,0 +1,13 @@
+{
+  "variants": {
+    "type=bottom": {
+      "model": "rhstoneredone:block/cobbled_granite_slab"
+    },
+    "type=double": {
+      "model": "rhstoneredone:block/cobbled_granite"
+    },
+    "type=top": {
+      "model": "rhstoneredone:block/cobbled_granite_slab_top"
+    }
+  }
+}

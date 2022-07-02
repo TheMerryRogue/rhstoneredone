@@ -1,0 +1,8 @@
+{
+  "parent": "minecraft:block/stairs",
+  "textures": {
+    "bottom": "rhstoneredone:block/cobbled_andesite",
+    "top": "rhstoneredone:block/cobbled_andesite",
+    "side": "rhstoneredone:block/cobbled_andesite"
+  }
+}

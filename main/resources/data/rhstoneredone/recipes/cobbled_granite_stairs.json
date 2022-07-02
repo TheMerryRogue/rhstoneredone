@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "#  ",
+    "## ",
+    "###"
+  ],
+  "key": {
+    "#": {
+      "item": "rhstoneredone:cobbled_granite"
+    }
+  },
+  "result": {
+    "item": "rhstoneredone:cobbled_granite_stairs",
+    "count": 6
+  }
+}

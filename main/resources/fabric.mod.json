@@ -1,0 +1,38 @@
+{
+  "schemaVersion": 1,
+  "id": "rhstoneredone",
+  "version": "${version}",
+
+  "name": "RH Stone Redone",
+  "description": "Normalizes stone crafting flows, adds missing stairs/slabs/walls, and adds new Vanilla-friendly cobbled and decorative block variants",
+  "authors": [
+    "The Merry Rogue"
+  ],
+  "contact": {
+    "homepage": "https://fabricmc.net/",
+    "sources": "https://github.com/FabricMC/fabric-example-mod"
+  },
+
+  "license": "Creative Commons Attribution 3.0 US",
+  "icon": "assets/rhstoneredone/icon.png",
+
+  "environment": "*",
+  "entrypoints": {
+    "main": [
+      "net.merryrogue.rhstoneredone.StoneRedone"
+    ]
+  },
+  "mixins": [
+    "rhstoneredone.mixins.json"
+  ],
+
+  "depends": {
+    "fabricloader": ">=0.14.6",
+    "fabric": "*",
+    "minecraft": "1.19.x",
+    "java": ">=17"
+  },
+  "suggests": {
+    "another-mod": "*"
+  }
+}

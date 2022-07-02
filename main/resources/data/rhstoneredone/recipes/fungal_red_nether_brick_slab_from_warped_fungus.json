@@ -1,0 +1,15 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "group": "fungal_nether_brick_slab",
+  "ingredients": [
+    {
+      "item": "minecraft:red_nether_brick_slab"
+    },
+    {
+      "item": "minecraft:warped_fungus"
+    }
+  ],
+  "result": {
+    "item": "rhstoneredone:fungal_red_nether_brick_slab"
+  }
+}

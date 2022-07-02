@@ -1,0 +1,15 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "group": "chiseled_mossy_stone_bricks",
+  "ingredients": [
+    {
+      "item": "minecraft:chiseled_stone_bricks"
+    },
+    {
+      "item": "minecraft:vine"
+    }
+  ],
+  "result": {
+    "item": "rhstoneredone:chiseled_simple_mossy_stone_bricks"
+  }
+}

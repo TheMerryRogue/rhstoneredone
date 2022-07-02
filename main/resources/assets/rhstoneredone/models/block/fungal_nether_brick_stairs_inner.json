@@ -1,0 +1,8 @@
+{
+  "parent": "minecraft:block/inner_stairs",
+  "textures": {
+    "bottom": "rhstoneredone:block/fungal_nether_bricks",
+    "top": "rhstoneredone:block/fungal_nether_bricks",
+    "side": "rhstoneredone:block/fungal_nether_bricks"
+  }
+}

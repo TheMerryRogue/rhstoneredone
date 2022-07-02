@@ -1,0 +1,22 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "group": "nether_brick_fence_gate",
+  "pattern": [
+    "#W#",
+    "SWS"
+  ],
+  "key": {
+    "#": {
+      "item": "minecraft:nether_brick"
+    },
+    "W": {
+      "item": "minecraft:red_nether_bricks"
+    },
+    "S": {
+      "item": "minecraft:nether_wart"
+    }
+  },
+  "result": {
+    "item": "rhstoneredone:red_nether_brick_fence_gate"
+  }
+}

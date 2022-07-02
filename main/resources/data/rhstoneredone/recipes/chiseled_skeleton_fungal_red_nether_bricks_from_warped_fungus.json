@@ -1,0 +1,15 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "group": "chiseled_fungal_nether_bricks",
+  "ingredients": [
+    {
+      "item": "rhstoneredone:chiseled_skeleton_red_nether_bricks"
+    },
+    {
+      "item": "minecraft:warped_fungus"
+    }
+  ],
+  "result": {
+    "item": "rhstoneredone:chiseled_skeleton_fungal_red_nether_bricks"
+  }
+}
