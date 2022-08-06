@@ -3,14 +3,14 @@
   "id": "rhstoneredone",
   "version": "${version}",
 
-  "name": "RH Stone Redone",
+  "name": "Rogue Hallow's Stone Redone",
   "description": "Normalizes stone crafting flows, adds missing stairs/slabs/walls, and adds new Vanilla-friendly cobbled and decorative block variants",
   "authors": [
     "The Merry Rogue"
   ],
   "contact": {
-    "homepage": "https://fabricmc.net/",
-    "sources": "https://github.com/FabricMC/fabric-example-mod"
+    "homepage": "https://www.curseforge.com/minecraft/mc-mods/rogue-hallows-stone-redone",
+    "sources": "https://github.com/TheMerryRogue/rhstoneredone_1_19_x"
   },
 
   "license": "Creative Commons Attribution 3.0 US",
@@ -20,6 +20,9 @@
   "entrypoints": {
     "main": [
       "net.merryrogue.rhstoneredone.StoneRedone"
+    ],
+    "client": [
+      "net.merryrogue.rhstoneredone.StoneRedoneClient"
     ]
   },
   "mixins": [
