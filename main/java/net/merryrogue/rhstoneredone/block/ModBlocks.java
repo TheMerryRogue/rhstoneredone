@@ -128,6 +128,213 @@ public class ModBlocks
     public static final Block CHISELED_GUARDIAN_DARK_PRISMARINE = registerBlock("chiseled_guardian_dark_prismarine",
             new Block(FabricBlockSettings.of(Material.STONE).hardness(1.5f).resistance(6.0f).requiresTool()));
 
+    // Red Clay Bricks
+    public static final Block MOSSY_BRICKS = registerBlock("mossy_bricks",
+            new Block(FabricBlockSettings.of(Material.STONE).hardness(2.0f).resistance(6.0f).requiresTool()));
+
+
+    // This is the template for new stairs
+    // For stairs made from vanilla materials:
+    //public static final Block STAIRS_NAME = registerBlock("stairs_name",
+    //        new ModStairsBlock(Blocks.VANILLA_BASE_STONE.getDefaultState(), FabricBlockSettings.of(Material.STONE).
+    //                hardness(2.0f).resistance(6.0f).requiresTool()));
+
+    // For stairs made from modded materials:
+    //public static final Block STAIRS_NAME = registerBlock("stairs_name",
+    //        new ModStairsBlock(ModBlocks.BASE_STONE.getDefaultState(), FabricBlockSettings.of(Material.STONE).
+    //                hardness(2.0f).resistance(6.0f).requiresTool()));
+
+    // Stone
+    public static final Block SMOOTH_STONE_STAIRS = registerBlock("smooth_stone_stairs",
+            new ModStairsBlock(Blocks.SMOOTH_STONE.getDefaultState(), FabricBlockSettings.
+                    of(Material.STONE).hardness(2.0f).resistance(6.0f).requiresTool()));
+
+    public static final Block CRACKED_STONE_BRICK_STAIRS = registerBlock("cracked_stone_brick_stairs",
+            new ModStairsBlock(Blocks.CRACKED_STONE_BRICKS.getDefaultState(), FabricBlockSettings.
+                    of(Material.STONE).hardness(1.5f).resistance(6.0f).requiresTool()));
+
+    // Andesite, Diorite, and Granite
+    public static final Block COBBLED_ANDESITE_STAIRS = registerBlock("cobbled_andesite_stairs",
+            new ModStairsBlock(ModBlocks.COBBLED_ANDESITE.getDefaultState(), FabricBlockSettings.
+                    of(Material.STONE).hardness(1.5f).resistance(6.0f).requiresTool()));
+
+    public static final Block COBBLED_DIORITE_STAIRS = registerBlock("cobbled_diorite_stairs",
+            new ModStairsBlock(ModBlocks.COBBLED_DIORITE.getDefaultState(), FabricBlockSettings.
+                    of(Material.STONE).hardness(1.5f).resistance(6.0f).requiresTool()));
+
+    public static final Block COBBLED_GRANITE_STAIRS = registerBlock("cobbled_granite_stairs",
+            new ModStairsBlock(ModBlocks.COBBLED_GRANITE.getDefaultState(), FabricBlockSettings.
+                    of(Material.STONE).hardness(1.5f).resistance(6.0f).requiresTool()));
+
+    // Sandstone and Red Sandstone
+    public static final Block CUT_SANDSTONE_STAIRS = registerBlock("cut_sandstone_stairs",
+            new ModStairsBlock(Blocks.SANDSTONE.getDefaultState(), FabricBlockSettings.
+                    of(Material.STONE).hardness(2.0f).resistance(0.8f).requiresTool()));
+
+    public static final Block CUT_RED_SANDSTONE_STAIRS = registerBlock("cut_red_sandstone_stairs",
+            new ModStairsBlock(Blocks.RED_SANDSTONE.getDefaultState(), FabricBlockSettings.
+                    of(Material.STONE).hardness(2.0f).resistance(0.8f).requiresTool()));
+
+    // Netherrack
+    public static final Block NETHERRACK_STAIRS = registerBlock("netherrack_stairs",
+            new ModStairsBlock(Blocks.NETHERRACK.getDefaultState(), FabricBlockSettings.
+                    of(Material.STONE).hardness(0.4f).resistance(0.4f).requiresTool()
+                    .sounds(BlockSoundGroup.NETHERRACK)));
+
+    // Nether Bricks and Red Nether Bricks
+    public static final Block FUNGAL_NETHER_BRICK_STAIRS = registerBlock("fungal_nether_brick_stairs",
+            new ModStairsBlock(ModBlocks.FUNGAL_NETHER_BRICKS.getDefaultState(), FabricBlockSettings.
+                    of(Material.STONE).hardness(2.0f).resistance(6.0f).requiresTool()
+                    .sounds(BlockSoundGroup.NETHER_BRICKS)));
+
+    public static final Block CRACKED_NETHER_BRICK_STAIRS = registerBlock("cracked_nether_brick_stairs",
+            new ModStairsBlock(ModBlocks.FUNGAL_NETHER_BRICKS.getDefaultState(), FabricBlockSettings.
+                    of(Material.STONE).hardness(2.0f).resistance(6.0f).requiresTool()
+                    .sounds(BlockSoundGroup.NETHER_BRICKS)));
+
+    public static final Block FUNGAL_RED_NETHER_BRICK_STAIRS = registerBlock("fungal_red_nether_brick_stairs",
+            new ModStairsBlock(ModBlocks.FUNGAL_RED_NETHER_BRICKS.getDefaultState(), FabricBlockSettings.
+                    of(Material.STONE).hardness(2.0f).resistance(6.0f).requiresTool()
+                    .sounds(BlockSoundGroup.NETHER_BRICKS)));
+
+    public static final Block CRACKED_RED_NETHER_BRICK_STAIRS = registerBlock("cracked_red_nether_brick_stairs",
+            new ModStairsBlock(ModBlocks.FUNGAL_NETHER_BRICKS.getDefaultState(), FabricBlockSettings.
+                    of(Material.STONE).hardness(2.0f).resistance(6.0f).requiresTool()
+                    .sounds(BlockSoundGroup.NETHER_BRICKS)));
+
+    // Blackstone
+    public static final Block COBBLED_BLACKSTONE_STAIRS = registerBlock("cobbled_blackstone_stairs",
+            new ModStairsBlock(ModBlocks.COBBLED_BLACKSTONE.getDefaultState(), FabricBlockSettings.
+                    of(Material.STONE).hardness(1.5f).resistance(6.0f).requiresTool()));
+
+    public static final Block CRACKED_BLACKSTONE_BRICK_STAIRS = registerBlock("cracked_blackstone_brick_stairs",
+            new ModStairsBlock(Blocks.CRACKED_POLISHED_BLACKSTONE_BRICKS.getDefaultState(), FabricBlockSettings.
+                    of(Material.STONE).hardness(1.5f).resistance(6.0f).requiresTool()));
+
+    // Deepslate
+    public static final Block DEEPSLATE_STAIRS = registerBlock("deepslate_stairs",
+            new ModStairsBlock(Blocks.DEEPSLATE.getDefaultState(), FabricBlockSettings.
+                    of(Material.STONE).hardness(3.0f).resistance(6.0f).requiresTool()
+                    .sounds(BlockSoundGroup.DEEPSLATE)));
+
+    public static final Block CRACKED_DEEPSLATE_BRICK_STAIRS = registerBlock("cracked_deepslate_brick_stairs",
+            new ModStairsBlock(Blocks.DEEPSLATE_BRICKS.getDefaultState(), FabricBlockSettings.
+                    of(Material.STONE).hardness(3.0f).resistance(6.0f).requiresTool()
+                    .sounds(BlockSoundGroup.DEEPSLATE_BRICKS)));
+
+    public static final Block CRACKED_DEEPSLATE_TILE_STAIRS = registerBlock("cracked_deepslate_tile_stairs",
+            new ModStairsBlock(Blocks.DEEPSLATE_TILES.getDefaultState(), FabricBlockSettings.
+                    of(Material.STONE).hardness(3.0f).resistance(6.0f).requiresTool()
+                    .sounds(BlockSoundGroup.DEEPSLATE_TILES)));
+
+    // Basalt
+    public static final Block SMOOTH_BASALT_STAIRS = registerBlock("smooth_basalt_stairs",
+            new ModStairsBlock(Blocks.BASALT.getDefaultState(), FabricBlockSettings.
+                    of(Material.STONE).hardness(1.25f).resistance(4.2f).requiresTool()
+                    .sounds(BlockSoundGroup.BASALT)));
+
+    // Calcite
+    public static final Block CALCITE_STAIRS = registerBlock("calcite_stairs",
+            new ModStairsBlock(Blocks.BASALT.getDefaultState(), FabricBlockSettings.
+                    of(Material.STONE).hardness(0.75f).resistance(0.75f).requiresTool()
+                    .sounds(BlockSoundGroup.CALCITE)));
+
+    // Red Clay Brick
+    public static final Block MOSSY_BRICK_STAIRS = registerBlock("mossy_brick_stairs",
+            new ModStairsBlock(Blocks.BASALT.getDefaultState(), FabricBlockSettings.
+                    of(Material.STONE).hardness(2.0f).resistance(6.0f).requiresTool()));
+
+
+    // This is the template for all new slabs
+    //public static final Block SLAB_NAME = registerBlock("slab_name",
+    //        new SlabBlock(FabricBlockSettings.of(Material.STONE).hardness(1.5f).resistance(6.0f).
+    //                requiresTool()));
+
+    // Stone
+    public static final Block CRACKED_STONE_BRICK_SLAB = registerBlock("cracked_stone_brick_slab",
+            new SlabBlock(FabricBlockSettings.of(Material.STONE).hardness(1.5f).resistance(6.0f).
+                    requiresTool()));
+
+    // Andesite, Diorite, and Granite
+    public static final Block COBBLED_ANDESITE_SLAB = registerBlock("cobbled_andesite_slab",
+            new SlabBlock(FabricBlockSettings.of(Material.STONE).hardness(1.5f).resistance(6.0f).
+                    requiresTool()));
+
+    public static final Block COBBLED_DIORITE_SLAB = registerBlock("cobbled_diorite_slab",
+            new SlabBlock(FabricBlockSettings.of(Material.STONE).hardness(1.5f).resistance(6.0f).
+                    requiresTool()));
+
+    public static final Block COBBLED_GRANITE_SLAB = registerBlock("cobbled_granite_slab",
+            new SlabBlock(FabricBlockSettings.of(Material.STONE).hardness(1.5f).resistance(6.0f).
+                    requiresTool()));
+
+    // Netherrack
+    public static final Block NETHERRACK_SLAB = registerBlock("netherrack_slab",
+            new SlabBlock(FabricBlockSettings.of(Material.STONE).hardness(0.4f).resistance(0.4f).
+                    requiresTool().sounds(BlockSoundGroup.NETHERRACK)));
+
+    // Nether Bricks and Red Nether Bricks
+    public static final Block FUNGAL_NETHER_BRICK_SLAB = registerBlock("fungal_nether_brick_slab",
+            new SlabBlock(FabricBlockSettings.of(Material.STONE).hardness(2.0f).resistance(6.0f).
+                    requiresTool().sounds(BlockSoundGroup.NETHER_BRICKS)));
+
+    public static final Block CRACKED_NETHER_BRICK_SLAB = registerBlock("cracked_nether_brick_slab",
+            new SlabBlock(FabricBlockSettings.of(Material.STONE).hardness(2.0f).resistance(6.0f).
+                    requiresTool().sounds(BlockSoundGroup.NETHER_BRICKS)));
+
+    public static final Block FUNGAL_RED_NETHER_BRICK_SLAB = registerBlock("fungal_red_nether_brick_slab",
+            new SlabBlock(FabricBlockSettings.of(Material.STONE).hardness(2.0f).resistance(6.0f).
+                    requiresTool().sounds(BlockSoundGroup.NETHER_BRICKS)));
+
+    public static final Block CRACKED_RED_NETHER_BRICK_SLAB = registerBlock("cracked_red_nether_brick_slab",
+            new SlabBlock(FabricBlockSettings.of(Material.STONE).hardness(2.0f).resistance(6.0f).
+                    requiresTool().sounds(BlockSoundGroup.NETHER_BRICKS)));
+
+    // Blackstone
+    public static final Block COBBLED_BLACKSTONE_SLAB = registerBlock("cobbled_blackstone_slab",
+            new SlabBlock(FabricBlockSettings.of(Material.STONE).hardness(1.5f).resistance(6.0f).
+                    requiresTool()));
+
+    public static final Block CRACKED_BLACKSTONE_BRICK_SLAB = registerBlock("cracked_blackstone_brick_slab",
+            new SlabBlock(FabricBlockSettings.of(Material.STONE).hardness(1.5f).resistance(6.0f).
+                    requiresTool()));
+
+    // Deepslate
+    public static final Block DEEPSLATE_SLAB = registerBlock("deepslate_slab",
+            new SlabBlock(FabricBlockSettings.of(Material.STONE).hardness(3.0f).resistance(6.0f).
+                    requiresTool().sounds(BlockSoundGroup.DEEPSLATE)));
+
+    public static final Block CRACKED_DEEPSLATE_BRICK_SLAB = registerBlock("cracked_deepslate_brick_slab",
+            new SlabBlock(FabricBlockSettings.of(Material.STONE).hardness(3.0f).resistance(6.0f).
+                    requiresTool().sounds(BlockSoundGroup.DEEPSLATE_BRICKS)));
+
+    public static final Block CRACKED_DEEPSLATE_TILE_SLAB = registerBlock("cracked_deepslate_tile_slab",
+            new SlabBlock(FabricBlockSettings.of(Material.STONE).hardness(3.0f).resistance(6.0f).
+                    requiresTool().sounds(BlockSoundGroup.DEEPSLATE_TILES)));
+
+    // Basalt
+    public static final Block BASALT_SLAB = registerBlock("basalt_slab",
+            new SlabBlock(FabricBlockSettings.of(Material.STONE).hardness(1.25f).resistance(4.2f).
+                    requiresTool().sounds(BlockSoundGroup.BASALT)));
+
+    public static final Block POLISHED_BASALT_SLAB = registerBlock("polished_basalt_slab",
+            new SlabBlock(FabricBlockSettings.of(Material.STONE).hardness(1.25f).resistance(4.2f).
+                    requiresTool().sounds(BlockSoundGroup.BASALT)));
+
+    public static final Block SMOOTH_BASALT_SLAB = registerBlock("smooth_basalt_slab",
+            new SlabBlock(FabricBlockSettings.of(Material.STONE).hardness(1.25f).resistance(4.2f).
+                    requiresTool().sounds(BlockSoundGroup.BASALT)));
+
+    // Calcite
+    public static final Block CALCITE_SLAB = registerBlock("calcite_slab",
+            new SlabBlock(FabricBlockSettings.of(Material.STONE).hardness(0.75f).resistance(0.75f).
+                    requiresTool().sounds(BlockSoundGroup.CALCITE)));
+
+    // Red Clay Brick
+    public static final Block MOSSY_BRICK_SLAB = registerBlock("mossy_brick_slab",
+            new SlabBlock(FabricBlockSettings.of(Material.STONE).hardness(2.0f).resistance(6.0f).
+                    requiresTool()));
+
 
     // This is the template for all new walls
     //public static final WallBlock WALL_NAME = (WallBlock) registerBlock("wall_name",
@@ -225,168 +432,19 @@ public class ModBlocks
     public static final WallBlock DARK_PRISMARINE_WALL = (WallBlock) registerBlock("dark_prismarine_wall",
             new WallBlock(FabricBlockSettings.of(Material.STONE).hardness(1.5f).resistance(6.0f).requiresTool()));
 
+    // Basalt
+    public static final WallBlock SMOOTH_BASALT_WALL = (WallBlock) registerBlock("smooth_basalt_wall",
+            new WallBlock(FabricBlockSettings.of(Material.STONE).hardness(1.25f).resistance(4.2f).requiresTool()
+                    .sounds(BlockSoundGroup.BASALT)));
 
-    // This is the template for all new stairs
-    // For stairs made from vanilla materials:
-    //public static final Block STAIRS_NAME = registerBlock("stairs_name",
-    //        new ModStairsBlock(Blocks.VANILLA_BASE_STONE.getDefaultState(), FabricBlockSettings.of(Material.STONE).
-    //                hardness(2.0f).resistance(6.0f).requiresTool()));
+    // Calcite
+    public static final WallBlock CALCITE_WALL = (WallBlock) registerBlock("calcite_wall",
+            new WallBlock(FabricBlockSettings.of(Material.STONE).hardness(0.75f).resistance(0.75f).requiresTool()
+                    .sounds(BlockSoundGroup.CALCITE)));
 
-    // For stairs made from modded materials:
-    //public static final Block STAIRS_NAME = registerBlock("stairs_name",
-    //        new ModStairsBlock(ModBlocks.BASE_STONE.getDefaultState(), FabricBlockSettings.of(Material.STONE).
-    //                hardness(2.0f).resistance(6.0f).requiresTool()));
-
-    // Stone
-    public static final Block SMOOTH_STONE_STAIRS = registerBlock("smooth_stone_stairs",
-            new ModStairsBlock(Blocks.SMOOTH_STONE.getDefaultState(), FabricBlockSettings.
-                    of(Material.STONE).hardness(2.0f).resistance(6.0f).requiresTool()));
-
-    public static final Block CRACKED_STONE_BRICK_STAIRS = registerBlock("cracked_stone_brick_stairs",
-            new ModStairsBlock(Blocks.CRACKED_STONE_BRICKS.getDefaultState(), FabricBlockSettings.
-                    of(Material.STONE).hardness(1.5f).resistance(6.0f).requiresTool()));
-
-    // Andesite, Diorite, and Granite
-    public static final Block COBBLED_ANDESITE_STAIRS = registerBlock("cobbled_andesite_stairs",
-            new ModStairsBlock(ModBlocks.COBBLED_ANDESITE.getDefaultState(), FabricBlockSettings.
-                    of(Material.STONE).hardness(1.5f).resistance(6.0f).requiresTool()));
-
-    public static final Block COBBLED_DIORITE_STAIRS = registerBlock("cobbled_diorite_stairs",
-            new ModStairsBlock(ModBlocks.COBBLED_DIORITE.getDefaultState(), FabricBlockSettings.
-                    of(Material.STONE).hardness(1.5f).resistance(6.0f).requiresTool()));
-
-    public static final Block COBBLED_GRANITE_STAIRS = registerBlock("cobbled_granite_stairs",
-            new ModStairsBlock(ModBlocks.COBBLED_GRANITE.getDefaultState(), FabricBlockSettings.
-                    of(Material.STONE).hardness(1.5f).resistance(6.0f).requiresTool()));
-
-    // Sandstone and Red Sandstone
-    public static final Block CUT_SANDSTONE_STAIRS = registerBlock("cut_sandstone_stairs",
-            new ModStairsBlock(Blocks.SANDSTONE.getDefaultState(), FabricBlockSettings.
-                    of(Material.STONE).hardness(2.0f).resistance(0.8f).requiresTool()));
-
-    public static final Block CUT_RED_SANDSTONE_STAIRS = registerBlock("cut_red_sandstone_stairs",
-            new ModStairsBlock(Blocks.RED_SANDSTONE.getDefaultState(), FabricBlockSettings.
-                    of(Material.STONE).hardness(2.0f).resistance(0.8f).requiresTool()));
-
-    // Netherrack
-    public static final Block NETHERRACK_STAIRS = registerBlock("netherrack_stairs",
-            new ModStairsBlock(Blocks.NETHERRACK.getDefaultState(), FabricBlockSettings.
-                    of(Material.STONE).hardness(0.4f).resistance(0.4f).requiresTool()
-                    .sounds(BlockSoundGroup.NETHERRACK)));
-
-    // Nether Bricks and Red Nether Bricks
-    public static final Block FUNGAL_NETHER_BRICK_STAIRS = registerBlock("fungal_nether_brick_stairs",
-            new ModStairsBlock(ModBlocks.FUNGAL_NETHER_BRICKS.getDefaultState(), FabricBlockSettings.
-                    of(Material.STONE).hardness(2.0f).resistance(6.0f).requiresTool()
-                    .sounds(BlockSoundGroup.NETHER_BRICKS)));
-
-    public static final Block CRACKED_NETHER_BRICK_STAIRS = registerBlock("cracked_nether_brick_stairs",
-            new ModStairsBlock(ModBlocks.FUNGAL_NETHER_BRICKS.getDefaultState(), FabricBlockSettings.
-                    of(Material.STONE).hardness(2.0f).resistance(6.0f).requiresTool()
-                    .sounds(BlockSoundGroup.NETHER_BRICKS)));
-
-    public static final Block FUNGAL_RED_NETHER_BRICK_STAIRS = registerBlock("fungal_red_nether_brick_stairs",
-            new ModStairsBlock(ModBlocks.FUNGAL_RED_NETHER_BRICKS.getDefaultState(), FabricBlockSettings.
-                    of(Material.STONE).hardness(2.0f).resistance(6.0f).requiresTool()
-                    .sounds(BlockSoundGroup.NETHER_BRICKS)));
-
-    public static final Block CRACKED_RED_NETHER_BRICK_STAIRS = registerBlock("cracked_red_nether_brick_stairs",
-            new ModStairsBlock(ModBlocks.FUNGAL_NETHER_BRICKS.getDefaultState(), FabricBlockSettings.
-                    of(Material.STONE).hardness(2.0f).resistance(6.0f).requiresTool()
-                    .sounds(BlockSoundGroup.NETHER_BRICKS)));
-
-    // Blackstone
-    public static final Block COBBLED_BLACKSTONE_STAIRS = registerBlock("cobbled_blackstone_stairs",
-            new ModStairsBlock(ModBlocks.COBBLED_BLACKSTONE.getDefaultState(), FabricBlockSettings.
-                    of(Material.STONE).hardness(1.5f).resistance(6.0f).requiresTool()));
-
-    public static final Block CRACKED_BLACKSTONE_BRICK_STAIRS = registerBlock("cracked_blackstone_brick_stairs",
-            new ModStairsBlock(Blocks.CRACKED_POLISHED_BLACKSTONE_BRICKS.getDefaultState(), FabricBlockSettings.
-                    of(Material.STONE).hardness(1.5f).resistance(6.0f).requiresTool()));
-
-    // Deepslate
-    public static final Block DEEPSLATE_STAIRS = registerBlock("deepslate_stairs",
-            new ModStairsBlock(Blocks.DEEPSLATE.getDefaultState(), FabricBlockSettings.
-                    of(Material.STONE).hardness(3.0f).resistance(6.0f).requiresTool()
-                    .sounds(BlockSoundGroup.DEEPSLATE)));
-
-    public static final Block CRACKED_DEEPSLATE_BRICK_STAIRS = registerBlock("cracked_deepslate_brick_stairs",
-            new ModStairsBlock(Blocks.DEEPSLATE_BRICKS.getDefaultState(), FabricBlockSettings.
-                    of(Material.STONE).hardness(3.0f).resistance(6.0f).requiresTool()
-                    .sounds(BlockSoundGroup.DEEPSLATE_BRICKS)));
-
-    public static final Block CRACKED_DEEPSLATE_TILE_STAIRS = registerBlock("cracked_deepslate_tile_stairs",
-            new ModStairsBlock(Blocks.DEEPSLATE_TILES.getDefaultState(), FabricBlockSettings.
-                    of(Material.STONE).hardness(3.0f).resistance(6.0f).requiresTool()
-                    .sounds(BlockSoundGroup.DEEPSLATE_TILES)));
-
-
-    // This is the template for all new slabs
-    //public static final Block SLAB_NAME = registerBlock("slab_name",
-    //        new SlabBlock(FabricBlockSettings.of(Material.STONE).hardness(1.5f).resistance(6.0f).
-    //                requiresTool()));
-
-    // Stone
-    public static final Block CRACKED_STONE_BRICK_SLAB = registerBlock("cracked_stone_brick_slab",
-            new SlabBlock(FabricBlockSettings.of(Material.STONE).hardness(1.5f).resistance(6.0f).
-                    requiresTool()));
-
-    // Andesite, Diorite, and Granite
-    public static final Block COBBLED_ANDESITE_SLAB = registerBlock("cobbled_andesite_slab",
-            new SlabBlock(FabricBlockSettings.of(Material.STONE).hardness(1.5f).resistance(6.0f).
-                    requiresTool()));
-
-    public static final Block COBBLED_DIORITE_SLAB = registerBlock("cobbled_diorite_slab",
-            new SlabBlock(FabricBlockSettings.of(Material.STONE).hardness(1.5f).resistance(6.0f).
-                    requiresTool()));
-
-    public static final Block COBBLED_GRANITE_SLAB = registerBlock("cobbled_granite_slab",
-            new SlabBlock(FabricBlockSettings.of(Material.STONE).hardness(1.5f).resistance(6.0f).
-                    requiresTool()));
-
-    // Netherrack
-    public static final Block NETHERRACK_SLAB = registerBlock("netherrack_slab",
-            new SlabBlock(FabricBlockSettings.of(Material.STONE).hardness(0.4f).resistance(0.4f).
-                    requiresTool().sounds(BlockSoundGroup.NETHERRACK)));
-
-    // Nether Bricks and Red Nether Bricks
-    public static final Block FUNGAL_NETHER_BRICK_SLAB = registerBlock("fungal_nether_brick_slab",
-            new SlabBlock(FabricBlockSettings.of(Material.STONE).hardness(2.0f).resistance(6.0f).
-                    requiresTool().sounds(BlockSoundGroup.NETHER_BRICKS)));
-
-    public static final Block CRACKED_NETHER_BRICK_SLAB = registerBlock("cracked_nether_brick_slab",
-            new SlabBlock(FabricBlockSettings.of(Material.STONE).hardness(2.0f).resistance(6.0f).
-                    requiresTool().sounds(BlockSoundGroup.NETHER_BRICKS)));
-
-    public static final Block FUNGAL_RED_NETHER_BRICK_SLAB = registerBlock("fungal_red_nether_brick_slab",
-            new SlabBlock(FabricBlockSettings.of(Material.STONE).hardness(2.0f).resistance(6.0f).
-                    requiresTool().sounds(BlockSoundGroup.NETHER_BRICKS)));
-
-    public static final Block CRACKED_RED_NETHER_BRICK_SLAB = registerBlock("cracked_red_nether_brick_slab",
-            new SlabBlock(FabricBlockSettings.of(Material.STONE).hardness(2.0f).resistance(6.0f).
-                    requiresTool().sounds(BlockSoundGroup.NETHER_BRICKS)));
-
-    // Blackstone
-    public static final Block COBBLED_BLACKSTONE_SLAB = registerBlock("cobbled_blackstone_slab",
-            new SlabBlock(FabricBlockSettings.of(Material.STONE).hardness(1.5f).resistance(6.0f).
-                    requiresTool()));
-
-    public static final Block CRACKED_BLACKSTONE_BRICK_SLAB = registerBlock("cracked_blackstone_brick_slab",
-            new SlabBlock(FabricBlockSettings.of(Material.STONE).hardness(1.5f).resistance(6.0f).
-                    requiresTool()));
-
-    // Deepslate
-    public static final Block DEEPSLATE_SLAB = registerBlock("deepslate_slab",
-            new SlabBlock(FabricBlockSettings.of(Material.STONE).hardness(3.0f).resistance(6.0f).
-                    requiresTool().sounds(BlockSoundGroup.DEEPSLATE)));
-
-    public static final Block CRACKED_DEEPSLATE_BRICK_SLAB = registerBlock("cracked_deepslate_brick_slab",
-            new SlabBlock(FabricBlockSettings.of(Material.STONE).hardness(3.0f).resistance(6.0f).
-                    requiresTool().sounds(BlockSoundGroup.DEEPSLATE_BRICKS)));
-
-    public static final Block CRACKED_DEEPSLATE_TILE_SLAB = registerBlock("cracked_deepslate_tile_slab",
-            new SlabBlock(FabricBlockSettings.of(Material.STONE).hardness(3.0f).resistance(6.0f).
-                    requiresTool().sounds(BlockSoundGroup.DEEPSLATE_TILES)));
+    // Red Clay Bricks
+    public static final WallBlock MOSSY_BRICK_WALL = (WallBlock) registerBlock("mossy_brick_wall",
+            new WallBlock(FabricBlockSettings.of(Material.STONE).hardness(2.0f).resistance(6.0f).requiresTool()));
 
 
     // This is the template for all new fences

@@ -1,0 +1,13 @@
+{
+  "variants": {
+    "type=bottom": {
+      "model": "rhstoneredone:block/calcite_slab"
+    },
+    "type=double": {
+      "model": "minecraft:block/calcite"
+    },
+    "type=top": {
+      "model": "rhstoneredone:block/calcite_slab_top"
+    }
+  }
+}

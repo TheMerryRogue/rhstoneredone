@@ -1,0 +1,8 @@
+{
+  "type": "minecraft:stonecutting",
+  "ingredient": {
+    "item": "rhstoneredone:mossy_bricks"
+  },
+  "result": "rhstoneredone:mossy_brick_stairs",
+  "count": 1
+}

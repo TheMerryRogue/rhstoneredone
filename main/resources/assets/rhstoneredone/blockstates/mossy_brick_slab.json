@@ -1,0 +1,13 @@
+{
+  "variants": {
+    "type=bottom": {
+      "model": "rhstoneredone:block/mossy_brick_slab"
+    },
+    "type=double": {
+      "model": "rhstoneredone:block/mossy_bricks"
+    },
+    "type=top": {
+      "model": "rhstoneredone:block/mossy_brick_slab_top"
+    }
+  }
+}

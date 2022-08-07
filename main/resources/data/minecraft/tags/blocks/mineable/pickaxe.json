@@ -89,6 +89,18 @@
     "rhstoneredone:fungal_red_nether_brick_slab",
     "rhstoneredone:fungal_red_nether_brick_wall",
     "rhstoneredone:deepslate_button",
-    "rhstoneredone:deepslate_pressure_plate"
+    "rhstoneredone:deepslate_pressure_plate",
+    "rhstoneredone:basalt_slab",
+    "rhstoneredone:polished_basalt_slab",
+    "rhstoneredone:smooth_basalt_stairs",
+    "rhstoneredone:smooth_basalt_slab",
+    "rhstoneredone:smooth_basalt_wall",
+    "rhstoneredone:calcite_stairs",
+    "rhstoneredone:calcite_slab",
+    "rhstoneredone:calcite_wall",
+    "rhstoneredone:mossy_bricks",
+    "rhstoneredone:mossy_brick_stairs",
+    "rhstoneredone:mossy_brick_slab",
+    "rhstoneredone:mossy_brick_wall"
   ]
 }

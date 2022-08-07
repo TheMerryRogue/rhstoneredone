@@ -278,6 +278,45 @@
   "block.rhstoneredone.chiseled_guardian_prismarine_bricks": "Guardian Chiseled Prismarine Block",
 
   "item.rhstoneredone.chiseled_guardian_dark_prismarine": "Guardian Chiseled Dark Prismarine Block",
-  "block.rhstoneredone.chiseled_guardian_dark_prismarine": "Guardian Chiseled Dark Prismarine Block"
+  "block.rhstoneredone.chiseled_guardian_dark_prismarine": "Guardian Chiseled Dark Prismarine Block",
+
+
+  "item.rhstoneredone.basalt_slab": "Basalt Slab",
+  "block.rhstoneredone.basalt_slab": "Basalt Slab",
+
+  "item.rhstoneredone.polished_basalt_slab": "Polished Basalt Slab",
+  "block.rhstoneredone.polished_basalt_slab": "Polished Basalt Slab",
+
+  "item.rhstoneredone.smooth_basalt_stairs": "Smooth Basalt Stairs",
+  "block.rhstoneredone.smooth_basalt_stairs": "Smooth Basalt Stairs",
+
+  "item.rhstoneredone.smooth_basalt_slab": "Smooth Basalt Slab",
+  "block.rhstoneredone.smooth_basalt_slab": "Smooth Basalt Slab",
+
+  "item.rhstoneredone.smooth_basalt_wall": "Smooth Basalt Wall",
+  "block.rhstoneredone.smooth_basalt_wall": "Smooth Basalt Wall",
+
+
+  "item.rhstoneredone.calcite_stairs": "Calcite Stairs",
+  "block.rhstoneredone.calcite_stairs": "Calcite Stairs",
+
+  "item.rhstoneredone.calcite_slab": "Calcite Slab",
+  "block.rhstoneredone.calcite_slab": "Calcite Slab",
+
+  "item.rhstoneredone.calcite_wall": "Calcite Wall",
+  "block.rhstoneredone.calcite_wall": "Calcite Wall",
+
+
+  "item.rhstoneredone.mossy_bricks": "Mossy Red Clay Bricks",
+  "block.rhstoneredone.mossy_bricks": "Mossy Red Clay Bricks",
+
+  "item.rhstoneredone.mossy_brick_stairs": "Mossy Red Clay Brick Stairs",
+  "block.rhstoneredone.mossy_brick_stairs": "Mossy Red Clay Brick Stairs",
+
+  "item.rhstoneredone.mossy_brick_slab": "Mossy Red Clay Brick Slab",
+  "block.rhstoneredone.mossy_brick_slab": "Mossy Red Clay Brick Slab",
+
+  "item.rhstoneredone.mossy_brick_wall": "Mossy Red Clay Brick Wall",
+  "block.rhstoneredone.mossy_brick_wall": "Mossy Red Clay Brick Wall"
 
 }

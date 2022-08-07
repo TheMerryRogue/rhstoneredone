@@ -1,0 +1,8 @@
+{
+  "parent": "minecraft:block/stairs",
+  "textures": {
+    "bottom": "rhstoneredone:block/mossy_bricks",
+    "top": "rhstoneredone:block/mossy_bricks",
+    "side": "rhstoneredone:block/mossy_bricks"
+  }
+}

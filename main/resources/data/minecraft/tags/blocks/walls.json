@@ -25,6 +25,9 @@
     "rhstoneredone:cracked_deepslate_brick_wall",
     "rhstoneredone:cracked_deepslate_tile_wall",
     "rhstoneredone:prismarine_brick_wall",
-    "rhstoneredone:dark_prismarine_wall"
+    "rhstoneredone:dark_prismarine_wall",
+    "rhstoneredone:smooth_basalt_wall",
+    "rhstoneredone:calcite_wall",
+    "rhstoneredone:mossy_brick_wall"
   ]
 }
